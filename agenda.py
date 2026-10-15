@@ -59,9 +59,12 @@ TEXTS = {
         "page_sub": "Toutes les activités annoncées par la commune, dans votre propre agenda.",
         "subscribe": "S'abonner",
         "sub_google": "Google Agenda",
-        "sub_apple": "iPhone / Mac / Outlook",
+        "sub_apple": "iPhone / Mac",
+        "sub_outlook": "Outlook (travail / Microsoft 365)",
+        "sub_outlook_live": "Outlook.com / Hotmail",
         "sub_copy": "Copier le lien",
         "sub_help": "L'abonnement se met à jour tout seul : les nouvelles activités apparaissent automatiquement.",
+        "sub_help_outlook": "Outlook installé sur l'ordinateur : Ajouter un calendrier → S'abonner à partir du web, puis collez ce lien (il doit commencer par https://) :",
         "upcoming": "Prochaines activités",
         "updated": "Mis à jour le {d}",
         "other_lang": "Nederlands",
@@ -83,9 +86,12 @@ TEXTS = {
         "page_sub": "Alle activiteiten die de gemeente aankondigt, in je eigen agenda.",
         "subscribe": "Abonneren",
         "sub_google": "Google Agenda",
-        "sub_apple": "iPhone / Mac / Outlook",
+        "sub_apple": "iPhone / Mac",
+        "sub_outlook": "Outlook (werk / Microsoft 365)",
+        "sub_outlook_live": "Outlook.com / Hotmail",
         "sub_copy": "Link kopiëren",
         "sub_help": "Het abonnement werkt zichzelf bij: nieuwe activiteiten verschijnen automatisch.",
+        "sub_help_outlook": "Outlook op de computer: Agenda toevoegen → Abonneren vanaf het web, en plak deze link (hij moet beginnen met https://):",
         "upcoming": "Komende activiteiten",
         "updated": "Bijgewerkt op {d}",
         "other_lang": "Français",
@@ -471,6 +477,9 @@ def build_public_page(events, lang, today, pages_url, stamp) -> str:
     ics = f"{base}/agenda-{lang}.ics" if base else f"agenda-{lang}.ics"
     webcal = re.sub(r"^https?://", "webcal://", ics)
     google = "https://calendar.google.com/calendar/render?cid=" + requests.utils.quote(webcal, safe="")
+    q = "url=" + requests.utils.quote(ics, safe="") + "&name=" + requests.utils.quote(t["cal_name"], safe="")
+    outlook_work = "https://outlook.office.com/calendar/0/addfromweb?" + q
+    outlook_live = "https://outlook.live.com/calendar/0/addfromweb?" + q
     other = "nl.html" if lang == "fr" else "index.html"
     now = datetime.combine(today, datetime.min.time())
     up = [e for e in events if e.dt_end > now]
@@ -479,8 +488,13 @@ def build_public_page(events, lang, today, pages_url, stamp) -> str:
              f"<section class='card'><b>{t['subscribe']}</b><div class='btns'>"
              f"<a class='btn' href='{html.escape(google)}' target='_blank' rel='noopener'>{t['sub_google']}</a>"
              f"<a class='btn' href='{html.escape(webcal)}'>{t['sub_apple']}</a>"
-             f"<button class='btn alt' onclick=\"navigator.clipboard.writeText('{ics}');this.textContent='✓'\">{t['sub_copy']}</button>"
-             f"</div><small>{t['sub_help']}<br><code>{html.escape(ics)}</code></small></section>",
+             f"<a class='btn' href='{html.escape(outlook_work)}' target='_blank' rel='noopener'>{t['sub_outlook']}</a>"
+             f"<a class='btn' href='{html.escape(outlook_live)}' target='_blank' rel='noopener'>{t['sub_outlook_live']}</a>"
+             f"</div><small>{t['sub_help']}</small>"
+             f"<p style='margin:12px 0 4px'><small>{t['sub_help_outlook']}</small></p>"
+             f"<code>{html.escape(ics)}</code>"
+             f"<div class='btns'><button class='btn alt' onclick=\"navigator.clipboard.writeText('{ics}');this.textContent='✓'\">{t['sub_copy']}</button></div>"
+             f"</section>",
              f"<h2>{t['upcoming']}</h2>"]
     cur = None
     for e in up:
