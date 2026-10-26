@@ -193,6 +193,18 @@
  },
  {
   "lang": "fr",
+  "title": "Nouvelle expo City Hall : Nathalie Fouarge",
+  "url": "https://www.wezembeek-oppem.be/fr/nouvelle-expo-city-hall-nathalie-fouarge",
+  "start": "2026-11-02T00:00:00",
+  "end": "2026-12-01T00:00:00",
+  "all_day": true,
+  "location": "City Hall - accueil",
+  "category": "Exposition",
+  "subtitle": "",
+  "uid": "a368fb42db8859b6b1de@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
   "title": "Digicafé",
   "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/599/digicafe",
   "start": "2026-11-03T14:00:00",
