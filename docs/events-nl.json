@@ -433,15 +433,15 @@
  },
  {
   "lang": "nl",
-  "title": "Infoavond: schooljaar 2027-2028, mijn kind aanmelden in het basisonderwijs",
-  "url": "https://www.wezembeek-oppem.be/infoavond-aanmelding-basisonderwijs",
+  "title": "Infoavond: je kind aanmelden in het basisonderwijs voor het schooljaar 2027-2028",
+  "url": "https://www.wezembeek-oppem.be/activiteiten/detail/692/infoavond-je-kind-aanmelden-in-het-basisonderwijs-voor-het-schooljaar-2027-2028",
   "start": "2026-11-24T19:30:00",
   "end": "2026-11-24T22:00:00",
   "all_day": false,
   "location": "CC De Warandepoort, Markt 7b, Tervuren",
   "category": "Lezing of congres",
   "subtitle": "",
-  "uid": "36bb3e4ccc14df4ff854@agenda-wezembeek-oppem"
+  "uid": "4333c75196e823e893df@agenda-wezembeek-oppem"
  },
  {
   "lang": "nl",
@@ -589,12 +589,24 @@
  },
  {
   "lang": "nl",
+  "title": "Infomoment: kwaliteitsvol verhuren – een introductie in de rechten en plichten van de verhuurder",
+  "url": "https://www.wezembeek-oppem.be/infomoment-kwaliteitsvol-verhuren-een-introductie-in-de-rechten-en-plichten-van-de-verhuurder",
+  "start": "2026-12-10T19:30:00",
+  "end": "2026-12-10T21:00:00",
+  "all_day": false,
+  "location": "Raadzaal gemeentehuis Kraainem",
+  "category": "Lezing of congres",
+  "subtitle": "",
+  "uid": "5be722ad86986986f123@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "nl",
   "title": "Repair Café",
   "url": "https://www.wezembeek-oppem.be/activiteiten/detail/679/repair-cafe",
   "start": "2026-12-13T14:00:00",
   "end": "2026-12-13T17:00:00",
   "all_day": false,
-  "location": "",
+  "location": "Sterrenveld 27",
   "category": "Type onbepaald",
   "subtitle": "Weggooien? Zeker niet! Vrijwilligers geven jouw spullen een nieuw leven!",
   "uid": "596319ba437e5280ce83@agenda-wezembeek-oppem"
@@ -678,7 +690,7 @@
   "start": "2027-02-14T14:00:00",
   "end": "2027-02-14T17:00:00",
   "all_day": false,
-  "location": "",
+  "location": "Sterrenveld 27",
   "category": "Type onbepaald",
   "subtitle": "Weggooien? Zeker niet! Vrijwilligers geven jouw spullen een nieuw leven!",
   "uid": "6a4fdb422a394731e67f@agenda-wezembeek-oppem"

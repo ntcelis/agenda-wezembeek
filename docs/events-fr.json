@@ -445,15 +445,15 @@
  },
  {
   "lang": "fr",
-  "title": "Soirée d'info : année scolaire 2027-2028, inscrire mon enfant dans une école fondamentale néerlandophone",
-  "url": "https://www.wezembeek-oppem.be/fr/soiree-dinformation-sur-linscription-a-lenseignement-fondamental",
+  "title": "Soirée d'info : inscrire votre enfant dans une école fondamentale néerlandophone pour l'année scolaire 2027-2028",
+  "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/692/soiree-dinfo-inscrire-votre-enfant-dans-une-ecole-fondamentale-neerlandophone-pour-lannee-scolaire-2",
   "start": "2026-11-24T19:30:00",
   "end": "2026-11-24T22:00:00",
   "all_day": false,
-  "location": "CC De Warandepoort, Markt 7b, Tervuren",
+  "location": "",
   "category": "Conférence ou congrès",
   "subtitle": "",
-  "uid": "3e66b184b6420962f26e@agenda-wezembeek-oppem"
+  "uid": "7b5a753394c43f6bc12f@agenda-wezembeek-oppem"
  },
  {
   "lang": "fr",
@@ -589,12 +589,24 @@
  },
  {
   "lang": "fr",
+  "title": "Séance d'information : louer dans les règles de l'art – une introduction aux droits et obligations du bailleur",
+  "url": "https://www.wezembeek-oppem.be/fr/seance-dinformation-louer-dans-les-regles-de-lart-une-introduction-aux-droits-et-obligations-du-bail",
+  "start": "2026-12-10T19:30:00",
+  "end": "2026-12-10T21:00:00",
+  "all_day": false,
+  "location": "Salle du Conseil maison communale Kraainem",
+  "category": "Conférence ou congrès",
+  "subtitle": "",
+  "uid": "cd2b76f099c1af82c400@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
   "title": "Repair Café",
   "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/679/repair-cafe",
   "start": "2026-12-13T14:00:00",
   "end": "2026-12-13T17:00:00",
   "all_day": false,
-  "location": "",
+  "location": "Champ des Etoiles 27",
   "category": "Catégorie non déterminé",
   "subtitle": "Jeter? Pas le moins du monde! Des réparateurs bénévoles donnent une nouvelle vie à vos objets.",
   "uid": "9f5bb7a0185b49e4cf32@agenda-wezembeek-oppem"
@@ -678,7 +690,7 @@
   "start": "2027-02-14T14:00:00",
   "end": "2027-02-14T17:00:00",
   "all_day": false,
-  "location": "",
+  "location": "Champ des Etoiles 27",
   "category": "Catégorie non déterminé",
   "subtitle": "Jeter? Pas le moins du monde! Des réparateurs bénévoles donnent une nouvelle vie à vos objets.",
   "uid": "330fef7506dedad449a8@agenda-wezembeek-oppem"
