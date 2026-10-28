@@ -28,7 +28,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:e5a0012a8faf0379ceb8@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261031
 TRANSP:TRANSPARENT
@@ -41,7 +41,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/642/nieuwe-expo-cit
 END:VEVENT
 BEGIN:VEVENT
 UID:9406fce5b8de6590bb72@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261015T100000
 DTEND;TZID=Europe/Brussels:20261015T120000
 SUMMARY:Babycafé sensorisch spel
@@ -52,7 +52,7 @@ URL:https://www.wezembeek-oppem.be/babycafe-sensorisch-spel
 END:VEVENT
 BEGIN:VEVENT
 UID:1c95ed8b7b172b5688e4@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261015T193000
 DTEND;TZID=Europe/Brussels:20261015T230000
 SUMMARY:Wezembeek Thursday Festival - Tribute Festival - StrongHer Bold Gi
@@ -65,7 +65,7 @@ URL:https://www.wezembeek-oppem.be/wezembeek-thursday-festival-tribute-fes
 END:VEVENT
 BEGIN:VEVENT
 UID:d4ca0f2c5ad57d6f9ca2@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261017T100000
 DTEND;TZID=Europe/Brussels:20261017T180000
 SUMMARY:Fotografie-expositie "Fotografenparcours"
@@ -76,7 +76,7 @@ URL:https://www.wezembeek-oppem.be/fotografie-expositie
 END:VEVENT
 BEGIN:VEVENT
 UID:4c9b3ccc90fd48bc03a7@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261018T100000
 DTEND;TZID=Europe/Brussels:20261018T180000
 SUMMARY:Fotografie-expositie "Fotografenparcours"
@@ -87,7 +87,7 @@ URL:https://www.wezembeek-oppem.be/fotografie-expositie
 END:VEVENT
 BEGIN:VEVENT
 UID:63e3a81398477db13cdc@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261020T140000
 DTEND;TZID=Europe/Brussels:20261020T160000
 SUMMARY:Digicafé
@@ -98,7 +98,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/599/digicafe
 END:VEVENT
 BEGIN:VEVENT
 UID:a4c78d9eda5f2259a008@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261020T193000
 DTEND;TZID=Europe/Brussels:20261020T203000
 SUMMARY:Online infosessie 3Wplus 'Energie delen'
@@ -109,7 +109,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/673/online-infosess
 END:VEVENT
 BEGIN:VEVENT
 UID:7cd5dc3c6c5c4801ca66@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261021T143000
 DTEND;TZID=Europe/Brussels:20261021T170000
 SUMMARY:Voorleesmoment in de bib
@@ -121,7 +121,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/632/voorleesmoment-
 END:VEVENT
 BEGIN:VEVENT
 UID:58c5b93c7e04c7d21904@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261021T190000
 DTEND;TZID=Europe/Brussels:20261021T203000
 SUMMARY:Infoavond: wat na de brand?
@@ -132,7 +132,7 @@ URL:https://www.wezembeek-oppem.be/infoavond-wat-na-de-brand
 END:VEVENT
 BEGIN:VEVENT
 UID:d73b4809ea499620539c@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261022T100000
 DTEND;TZID=Europe/Brussels:20261022T120000
 SUMMARY:Babycafé
@@ -143,7 +143,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/318/babycafe
 END:VEVENT
 BEGIN:VEVENT
 UID:73395dff99e4ce9104eb@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261027T140000
 DTEND;TZID=Europe/Brussels:20261027T160000
 SUMMARY:Digicafé
@@ -154,7 +154,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/598/digicafe
 END:VEVENT
 BEGIN:VEVENT
 UID:7a75a5de754e8ff2589f@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261029T100000
 DTEND;TZID=Europe/Brussels:20261029T120000
 SUMMARY:Babycafé
@@ -165,7 +165,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/318/babycafe
 END:VEVENT
 BEGIN:VEVENT
 UID:2966ec39bb06ff1377ff@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261029T140000
 DTEND;TZID=Europe/Brussels:20261029T153000
 SUMMARY:Optreden Jan Van Hoof
@@ -175,7 +175,7 @@ URL:https://www.wezembeek-oppem.be/optreden-jan-van-hoof
 END:VEVENT
 BEGIN:VEVENT
 UID:3a90affbd05790790e37@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261031T160000
 DTEND;TZID=Europe/Brussels:20261031T220000
 SUMMARY:Halloween groepsfeest Chiro Berkenbloesem
@@ -187,7 +187,7 @@ URL:https://www.wezembeek-oppem.be/groepsfeest-halloween-chiro-berkenbloes
 END:VEVENT
 BEGIN:VEVENT
 UID:bf100a9187a42de80e92@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261031T180000
 DTEND;TZID=Europe/Brussels:20261031T200000
 SUMMARY:Halloween trick or treat
@@ -197,7 +197,7 @@ URL:https://www.wezembeek-oppem.be/halloween-trick-or-treat
 END:VEVENT
 BEGIN:VEVENT
 UID:5694f8dee39e4f518197@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261101T160000
 DTEND;TZID=Europe/Brussels:20261101T170000
 SUMMARY:Troostmoment
@@ -207,7 +207,7 @@ URL:https://www.wezembeek-oppem.be/troostmoment
 END:VEVENT
 BEGIN:VEVENT
 UID:7d119ae75bf049fbbd30@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261201
 TRANSP:TRANSPARENT
@@ -219,7 +219,7 @@ URL:https://www.wezembeek-oppem.be/nieuwe-expo-city-hall-nathalie-fouarge
 END:VEVENT
 BEGIN:VEVENT
 UID:a90a8cd5b51b8bc7838a@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261103T140000
 DTEND;TZID=Europe/Brussels:20261103T160000
 SUMMARY:Digicafé
@@ -230,7 +230,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/599/digicafe
 END:VEVENT
 BEGIN:VEVENT
 UID:d9a99f7aa8a4ae3ae585@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261108T100000
 DTEND;TZID=Europe/Brussels:20261108T180000
 SUMMARY:Big Jump
@@ -241,7 +241,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/668/big-jump
 END:VEVENT
 BEGIN:VEVENT
 UID:d43c89af7f4d8aa79c11@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261108T140000
 DTEND;TZID=Europe/Brussels:20261108T170000
 SUMMARY:Repair Café
@@ -253,7 +253,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/567/repair-cafe
 END:VEVENT
 BEGIN:VEVENT
 UID:d254279fe8dde42c16a2@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261110T100000
 DTEND;TZID=Europe/Brussels:20261110T104500
 SUMMARY:Herdenking Wapenstilstand
@@ -265,7 +265,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/685/herdenking-wape
 END:VEVENT
 BEGIN:VEVENT
 UID:bd351fbdd75740278fa1@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261110T140000
 DTEND;TZID=Europe/Brussels:20261110T160000
 SUMMARY:Café Alzheimer (FR)
@@ -277,7 +277,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/526/cafe-alzheimer-
 END:VEVENT
 BEGIN:VEVENT
 UID:703f762030395d2a6485@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261110T140000
 DTEND;TZID=Europe/Brussels:20261110T160000
 SUMMARY:Digicafé
@@ -288,7 +288,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/598/digicafe
 END:VEVENT
 BEGIN:VEVENT
 UID:d2af3cf39d089c473830@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261112T100000
 DTEND;TZID=Europe/Brussels:20261112T120000
 SUMMARY:Babycafé
@@ -299,7 +299,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/318/babycafe
 END:VEVENT
 BEGIN:VEVENT
 UID:5fbf4be18b77aa74078c@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261112T193000
 DTEND;TZID=Europe/Brussels:20261112T230000
 SUMMARY:Wezembeek Thursday Festival - Born to Run - tribute to Bruce Sprin
@@ -312,7 +312,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/680/wezembeek-thurs
 END:VEVENT
 BEGIN:VEVENT
 UID:7e628ef393099b4d80ac@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261114T140000
 DTEND;TZID=Europe/Brussels:20261114T200000
 SUMMARY:25ste Artisanale Kerstmarkt
@@ -322,7 +322,7 @@ URL:https://www.wezembeek-oppem.be/kerstmarkt
 END:VEVENT
 BEGIN:VEVENT
 UID:07df0f473b433d50e948@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261116T193000
 DTEND;TZID=Europe/Brussels:20261116T210000
 SUMMARY:Veerkrachtig in zwangerschap\, bevalling en pril ouderschap (NL)
@@ -334,7 +334,7 @@ URL:https://www.wezembeek-oppem.be/veerkrachtig-in-zwangerschap-bevalling-
 END:VEVENT
 BEGIN:VEVENT
 UID:0ba7c6045316dd9e4ca3@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261118T140000
 DTEND;TZID=Europe/Brussels:20261118T160000
 SUMMARY:Alzheimercafé (NL)
@@ -344,7 +344,7 @@ URL:https://www.wezembeek-oppem.be/alzheimer-cafe
 END:VEVENT
 BEGIN:VEVENT
 UID:208f96c914c3e86ae756@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261118T140000
 DTEND;TZID=Europe/Brussels:20261118T170000
 SUMMARY:Spelletjesnamiddag
@@ -356,7 +356,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/682/spelletjesnamid
 END:VEVENT
 BEGIN:VEVENT
 UID:8ed0a8a990d3b9c36473@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261118T140000
 DTEND;TZID=Europe/Brussels:20261118T170000
 SUMMARY:Voorleesmarathon 2026
@@ -368,7 +368,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/631/voorleesmaratho
 END:VEVENT
 BEGIN:VEVENT
 UID:4889ffc0676935fd37be@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261118T180000
 DTEND;TZID=Europe/Brussels:20261118T193000
 SUMMARY:Coffee With a Cop - Wokra
@@ -379,7 +379,7 @@ URL:https://www.wezembeek-oppem.be/coffee-with-a-cop
 END:VEVENT
 BEGIN:VEVENT
 UID:a8c1f39ce6f46021823b@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261118T200000
 DTEND;TZID=Europe/Brussels:20261118T220000
 SUMMARY:Burgermoment: patrimoniumplan
@@ -391,7 +391,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/684/burgermoment-pa
 END:VEVENT
 BEGIN:VEVENT
 UID:3fd8f5dddbab9de97464@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261119T100000
 DTEND;TZID=Europe/Brussels:20261119T120000
 SUMMARY:Babycafé
@@ -402,7 +402,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/318/babycafe
 END:VEVENT
 BEGIN:VEVENT
 UID:459c206ec1e0952d47b1@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261121T100000
 DTEND;TZID=Europe/Brussels:20261121T130000
 SUMMARY:Een nieuw park voor de Marmotwijk
@@ -416,7 +416,7 @@ URL:https://www.wezembeek-oppem.be/geef-mee-vorm-aan-het-toekomstige-herto
 END:VEVENT
 BEGIN:VEVENT
 UID:a06fb57202e7a977052e@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261121T180000
 DTEND;TZID=Europe/Brussels:20261121T190000
 SUMMARY:Herfstfestijn: vol au vent met frietjes
@@ -427,7 +427,7 @@ URL:https://www.wezembeek-oppem.be/herfstfestijn-vol-au-vent-met-friet
 END:VEVENT
 BEGIN:VEVENT
 UID:ef91bff963d6a0015b2a@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261122T140000
 DTEND;TZID=Europe/Brussels:20261122T170000
 SUMMARY:Opendeurdag nieuwe gemeentelijke loods
@@ -437,7 +437,7 @@ URL:https://www.wezembeek-oppem.be/opendeurdag-nieuwe-loods
 END:VEVENT
 BEGIN:VEVENT
 UID:4333c75196e823e893df@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261124T193000
 DTEND;TZID=Europe/Brussels:20261124T220000
 SUMMARY:Infoavond: je kind aanmelden in het basisonderwijs voor het school
@@ -451,7 +451,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/692/infoavond-je-ki
 END:VEVENT
 BEGIN:VEVENT
 UID:b19bfceefd0c782b1173@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261124T193000
 DTEND;TZID=Europe/Brussels:20261124T210000
 SUMMARY:Veerkrachtig in zwangerschap\, bevalling en pril ouderschap (NL)
@@ -463,7 +463,7 @@ URL:https://www.wezembeek-oppem.be/veerkrachtig-in-zwangerschap-bevalling-
 END:VEVENT
 BEGIN:VEVENT
 UID:dcd6a5ab8da657f3de24@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261125T140000
 DTEND;TZID=Europe/Brussels:20261125T170000
 SUMMARY:Voorleesmarathon 2026
@@ -475,7 +475,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/631/voorleesmaratho
 END:VEVENT
 BEGIN:VEVENT
 UID:f954bdd03be2af619aa3@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261126T100000
 DTEND;TZID=Europe/Brussels:20261126T120000
 SUMMARY:Babycafé
@@ -486,7 +486,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/318/babycafe
 END:VEVENT
 BEGIN:VEVENT
 UID:488aeff4dce0bc05c684@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261126T100000
 DTEND;TZID=Europe/Brussels:20261126T120000
 SUMMARY:Babycafé workshop foto's maken
@@ -498,7 +498,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/546/babycafe-worksh
 END:VEVENT
 BEGIN:VEVENT
 UID:fe22717924506dd22fa2@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261126T200000
 DTEND;TZID=Europe/Brussels:20261126T230000
 SUMMARY:Toneelgroep De Morgenster brengt "Een weekendje moorden"
@@ -510,7 +510,7 @@ URL:https://www.wezembeek-oppem.be/toneelgroep-de-morgenster-brengt-een-we
 END:VEVENT
 BEGIN:VEVENT
 UID:4dedb254dc87c4c3f0b0@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261127T200000
 DTEND;TZID=Europe/Brussels:20261127T230000
 SUMMARY:Toneelgroep De Morgenster brengt "Een weekendje moorden"
@@ -522,7 +522,7 @@ URL:https://www.wezembeek-oppem.be/toneelgroep-de-morgenster-brengt-een-we
 END:VEVENT
 BEGIN:VEVENT
 UID:2b8b23d73e6f1060f0d9@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261128T200000
 DTEND;TZID=Europe/Brussels:20261128T230000
 SUMMARY:Toneelgroep De Morgenster brengt "Een weekendje moorden"
@@ -534,7 +534,7 @@ URL:https://www.wezembeek-oppem.be/toneelgroep-de-morgenster-brengt-een-we
 END:VEVENT
 BEGIN:VEVENT
 UID:39414c62b775638f5e84@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261129T150000
 DTEND;TZID=Europe/Brussels:20261129T180000
 SUMMARY:Toneelgroep De Morgenster brengt "Een weekendje moorden"
@@ -546,7 +546,7 @@ URL:https://www.wezembeek-oppem.be/toneelgroep-de-morgenster-brengt-een-we
 END:VEVENT
 BEGIN:VEVENT
 UID:9a64fffd1c3da4b62334@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261203T100000
 DTEND;TZID=Europe/Brussels:20261203T120000
 SUMMARY:Babycafé
@@ -557,7 +557,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/318/babycafe
 END:VEVENT
 BEGIN:VEVENT
 UID:7caa8b7bfa3fcdfe540b@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261208T140000
 DTEND;TZID=Europe/Brussels:20261208T160000
 SUMMARY:Café Alzheimer (FR)
@@ -569,7 +569,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/526/cafe-alzheimer-
 END:VEVENT
 BEGIN:VEVENT
 UID:406d05406f2ffc47319c@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261208T193000
 DTEND;TZID=Europe/Brussels:20261208T210000
 SUMMARY:Veerkrachtig in zwangerschap\, bevalling en pril ouderschap (NL)
@@ -581,7 +581,7 @@ URL:https://www.wezembeek-oppem.be/veerkrachtig-in-zwangerschap-bevalling-
 END:VEVENT
 BEGIN:VEVENT
 UID:02cfe79cff9b75f1d88f@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261210T100000
 DTEND;TZID=Europe/Brussels:20261210T120000
 SUMMARY:Babycafé
@@ -592,7 +592,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/318/babycafe
 END:VEVENT
 BEGIN:VEVENT
 UID:5be722ad86986986f123@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261210T193000
 DTEND;TZID=Europe/Brussels:20261210T210000
 SUMMARY:Infomoment: kwaliteitsvol verhuren – een introductie in de recht
@@ -606,7 +606,7 @@ URL:https://www.wezembeek-oppem.be/infomoment-kwaliteitsvol-verhuren-een-i
 END:VEVENT
 BEGIN:VEVENT
 UID:596319ba437e5280ce83@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261213T140000
 DTEND;TZID=Europe/Brussels:20261213T170000
 SUMMARY:Repair Café
@@ -618,7 +618,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/679/repair-cafe
 END:VEVENT
 BEGIN:VEVENT
 UID:22f29a58d305a54ea105@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261214T193000
 DTEND;TZID=Europe/Brussels:20261214T210000
 SUMMARY:Veerkrachtig in zwangerschap\, bevalling en pril ouderschap (NL)
@@ -630,7 +630,7 @@ URL:https://www.wezembeek-oppem.be/veerkrachtig-in-zwangerschap-bevalling-
 END:VEVENT
 BEGIN:VEVENT
 UID:be0a623379e151f3e2d5@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261216T140000
 DTEND;TZID=Europe/Brussels:20261216T160000
 SUMMARY:Alzheimercafé (NL)
@@ -640,7 +640,7 @@ URL:https://www.wezembeek-oppem.be/alzheimer-cafe
 END:VEVENT
 BEGIN:VEVENT
 UID:c7eb4ebf703985de17be@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261216T143000
 DTEND;TZID=Europe/Brussels:20261216T170000
 SUMMARY:Voorleesmoment in de bib
@@ -652,7 +652,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/633/voorleesmoment-
 END:VEVENT
 BEGIN:VEVENT
 UID:ff666de3cd2c0ae28133@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261217T193000
 DTEND;TZID=Europe/Brussels:20261217T210000
 SUMMARY:Lezing: "Liefdevol omgaan met verlies" (NL)
@@ -665,7 +665,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/688/lezing-liefdevo
 END:VEVENT
 BEGIN:VEVENT
 UID:458c2ad31d179e1acffb@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20261231T100000
 DTEND;TZID=Europe/Brussels:20261231T120000
 SUMMARY:Babycafé
@@ -676,7 +676,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/318/babycafe
 END:VEVENT
 BEGIN:VEVENT
 UID:3404e3fd67c232a48ed3@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20270110T140000
 DTEND;TZID=Europe/Brussels:20270110T170000
 SUMMARY:Repair Café
@@ -688,7 +688,7 @@ URL:https://www.wezembeek-oppem.be/activiteiten/detail/677/repair-cafe
 END:VEVENT
 BEGIN:VEVENT
 UID:6a4fdb422a394731e67f@agenda-wezembeek-oppem
-DTSTAMP:20261027T094233Z
+DTSTAMP:20261028T102722Z
 DTSTART;TZID=Europe/Brussels:20270214T140000
 DTEND;TZID=Europe/Brussels:20270214T170000
 SUMMARY:Repair Café
