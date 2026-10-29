@@ -1,17 +1,7 @@
 📅 *Agenda van Wezembeek-Oppem*
-_van donderdag 22 oktober tot zaterdag 31 oktober_
+_van donderdag 29 oktober tot zaterdag 7 november_
 
 Hallo allemaal! Dit zijn de geplande activiteiten in onze gemeente:
-
-*Donderdag 22 oktober*
-▪️ 10u–12u · *Babycafé*
-   📍 Ontmoetingscentrum Agora
-   🔗 https://www.wezembeek-oppem.be/activiteiten/detail/318/babycafe
-
-*Dinsdag 27 oktober*
-▪️ 14u–16u · *Digicafé*
-   📍 Ontmoetingscentrum Agora
-   🔗 https://www.wezembeek-oppem.be/activiteiten/detail/598/digicafe
 
 *Donderdag 29 oktober*
 ▪️ 10u–12u · *Babycafé*
@@ -28,10 +18,23 @@ Hallo allemaal! Dit zijn de geplande activiteiten in onze gemeente:
 ▪️ 18u–20u · *Halloween trick or treat*
    🔗 https://www.wezembeek-oppem.be/halloween-trick-or-treat
 
+*Zondag 1 november*
+▪️ 16u · *Troostmoment*
+   📍 Begraafplaats
+   🔗 https://www.wezembeek-oppem.be/troostmoment
+
+*Dinsdag 3 november*
+▪️ 14u–16u · *Digicafé*
+   📍 OCMW-gebouw
+   🔗 https://www.wezembeek-oppem.be/activiteiten/detail/599/digicafe
+
 *Lopend*
 ▪️ *Nieuwe expo City Hall: Aurélie Henriet* (tot 30 oktober)
    📍 City Hall - onthaalruimte
    🔗 https://www.wezembeek-oppem.be/activiteiten/detail/642/nieuwe-expo-city-hall-aurelie-henriet
+▪️ *Nieuwe expo City Hall: Nathalie Fouarge* (tot 30 november)
+   📍 City Hall - onthaalruimte
+   🔗 https://www.wezembeek-oppem.be/nieuwe-expo-city-hall-nathalie-fouarge
 
 🗓️ De volledige agenda en abonneren in je eigen kalender:
 https://ntcelis.github.io/agenda-wezembeek/nl.html
