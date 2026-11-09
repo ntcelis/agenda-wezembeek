@@ -301,6 +301,18 @@
  },
  {
   "lang": "fr",
+  "title": "Te deum",
+  "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/693/te-deum",
+  "start": "2026-11-15T11:30:00",
+  "end": "2026-11-15T12:30:00",
+  "all_day": false,
+  "location": "Eglise Saint Joseph",
+  "category": "Catégorie non déterminé",
+  "subtitle": "",
+  "uid": "467ee61724a41e4afd22@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
   "title": "Résilience pendant la grossesse, l'accouchement et le début de la parentalité (NL)",
   "url": "https://www.wezembeek-oppem.be/fr/resilience-pendant-la-grossesse-laccouchement-et-les-premiers-temps-de-la-parentalite",
   "start": "2026-11-16T19:30:00",
@@ -574,6 +586,18 @@
   "category": "Catégorie non déterminé",
   "subtitle": "",
   "uid": "14d14c149758e7a0422a@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
+  "title": "Babycafé atelier musical",
+  "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/427/babycafe-atelier-musical",
+  "start": "2026-12-10T10:00:00",
+  "end": "2026-12-10T12:00:00",
+  "all_day": false,
+  "location": "",
+  "category": "Catégorie non déterminé",
+  "subtitle": "",
+  "uid": "3312fa4f4cac4ac0be10@agenda-wezembeek-oppem"
  },
  {
   "lang": "fr",

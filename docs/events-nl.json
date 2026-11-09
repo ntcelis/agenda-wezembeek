@@ -301,6 +301,18 @@
  },
  {
   "lang": "nl",
+  "title": "Te deum",
+  "url": "https://www.wezembeek-oppem.be/te-deum",
+  "start": "2026-11-15T11:30:00",
+  "end": "2026-11-15T12:30:00",
+  "all_day": false,
+  "location": "Sint-Jozefkerk",
+  "category": "Type onbepaald",
+  "subtitle": "",
+  "uid": "14c0dbf4b79651bce472@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "nl",
   "title": "Veerkrachtig in zwangerschap, bevalling en pril ouderschap (NL)",
   "url": "https://www.wezembeek-oppem.be/veerkrachtig-in-zwangerschap-bevalling-en-pril-ouderschap",
   "start": "2026-11-16T19:30:00",
@@ -574,6 +586,18 @@
   "category": "Type onbepaald",
   "subtitle": "",
   "uid": "02cfe79cff9b75f1d88f@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "nl",
+  "title": "Babycafé muziekatelier",
+  "url": "https://www.wezembeek-oppem.be/activiteiten/detail/427/babycafe-muziekatelier",
+  "start": "2026-12-10T10:00:00",
+  "end": "2026-12-10T12:00:00",
+  "all_day": false,
+  "location": "Gebouw Agora",
+  "category": "Type onbepaald",
+  "subtitle": "",
+  "uid": "ef724901e9a024f8767c@agenda-wezembeek-oppem"
  },
  {
   "lang": "nl",
