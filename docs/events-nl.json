@@ -649,6 +649,18 @@
  },
  {
   "lang": "nl",
+  "title": "Zitdag Groeipakket",
+  "url": "https://www.wezembeek-oppem.be/zitdagen-groeipakket",
+  "start": "2026-12-17T10:00:00",
+  "end": "2026-12-17T12:00:00",
+  "all_day": false,
+  "location": "Huis van het Kind Wezembeek-Oppem",
+  "category": "Type onbepaald",
+  "subtitle": "",
+  "uid": "d715e91c326f69ba41d0@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "nl",
   "title": "Lezing: \"Liefdevol omgaan met verlies\" (NL)",
   "url": "https://www.wezembeek-oppem.be/activiteiten/detail/688/lezing-liefdevol-omgaan-met-verlies-nl",
   "start": "2026-12-17T19:30:00",
