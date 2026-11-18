@@ -337,15 +337,15 @@
  },
  {
   "lang": "fr",
-  "title": "Rendez-vous citoyens: aménagement du territoire",
-  "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/684/rendez-vous-citoyens-amenagement-du-territoire",
+  "title": "Rendez-vous citoyens: plan de gestion du patrimoine communal",
+  "url": "https://www.wezembeek-oppem.be/fr/rendez-vous-citoyens-plan-patrimonial",
   "start": "2026-11-18T20:00:00",
   "end": "2026-11-18T22:00:00",
   "all_day": false,
   "location": "",
   "category": "Catégorie non déterminé",
   "subtitle": "",
-  "uid": "b099361286f6079ea1ae@agenda-wezembeek-oppem"
+  "uid": "edc1afb8188fd79238eb@agenda-wezembeek-oppem"
  },
  {
   "lang": "fr",
@@ -505,6 +505,18 @@
  },
  {
   "lang": "fr",
+  "title": "SENtalks: \"Votre mémoire vous joue-t-elle parfois des tours?\"",
+  "url": "https://www.wezembeek-oppem.be/fr/sentalks-votre-memoire-vous-joue-t-elle-parfois-des-tours",
+  "start": "2026-12-01T14:00:00",
+  "end": "2026-12-01T15:30:00",
+  "all_day": false,
+  "location": "Centre Forum",
+  "category": "Conférence ou congrès",
+  "subtitle": "",
+  "uid": "0e37940a355a261ee553@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
   "title": "Babycafé",
   "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/318/babycafe",
   "start": "2026-12-03T10:00:00",
@@ -538,6 +550,18 @@
   "category": "Cours avec sessions ouvertes",
   "subtitle": "",
   "uid": "4724699d7958b7d2cf5f@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
+  "title": "SENtalks: \"Het alledaags vergeten. Wat moet ik ermee?\"",
+  "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/695/sentalks-het-alledaags-vergeten-wat-moet-ik-ermee",
+  "start": "2026-12-09T14:00:00",
+  "end": "2026-12-09T15:30:00",
+  "all_day": false,
+  "location": "GC de Kam",
+  "category": "Conférence ou congrès",
+  "subtitle": "",
+  "uid": "bf865562c587b1204d4d@agenda-wezembeek-oppem"
  },
  {
   "lang": "fr",
