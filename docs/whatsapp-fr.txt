@@ -1,32 +1,9 @@
 📅 *Agenda de Wezembeek-Oppem*
-_du jeudi 19 novembre au samedi 28 novembre_
+_du jeudi 26 novembre au samedi 5 décembre_
 
 Bonjour à toutes et à tous ! Voici les activités prévues dans notre commune :
 
-*Samedi 21 novembre*
-▪️ 18h00 · *Festin d'automne: vol au vent et frites*
-   🔗 https://www.wezembeek-oppem.be/fr/festin-dautomne-vol-au-vent-frites
-
-*Dimanche 22 novembre*
-▪️ 14h00–17h00 · *Portes ouvertes au nouveau hangar communal*
-   🔗 https://www.wezembeek-oppem.be/fr/activiteiten/detail/683/portes-ouvertes-au-nouveau-hangar-communal
-
-*Mardi 24 novembre*
-▪️ 19h30–21h00 · *Résilience pendant la grossesse, l'accouchement et le début de la parentalité (NL)*
-   🔗 https://www.wezembeek-oppem.be/fr/resilience-pendant-la-grossesse-laccouchement-et-les-premiers-temps-de-la-parentalite
-▪️ 19h30–22h00 · *Soirée d'info : inscrire votre enfant dans une école fondamentale néerlandophone pour l'année scolaire 2027-2028*
-   🔗 https://www.wezembeek-oppem.be/fr/activiteiten/detail/692/soiree-dinfo-inscrire-votre-enfant-dans-une-ecole-fondamentale-neerlandophone-pour-lannee-scolaire-2
-
-*Mercredi 25 novembre*
-▪️ 14h00–17h00 · *Marathon de lecture 2026*
-   🔗 https://www.wezembeek-oppem.be/fr/activiteiten/detail/631/marathon-de-lecture-2026
-
 *Jeudi 26 novembre*
-▪️ 10h00–12h00 · *Babycafé*
-   📍 Centre de rencontre Agora
-   🔗 https://www.wezembeek-oppem.be/fr/activiteiten/detail/318/babycafe
-▪️ 10h00–12h00 · *Babycafé: atelier de photographie*
-   🔗 https://www.wezembeek-oppem.be/fr/activiteiten/detail/546/babycafe-atelier-de-photographie
 ▪️ 20h00–23h00 · *La troupe de théatre De Morgenster joue "Een weekendje moorden" (NL)*
    🔗 https://www.wezembeek-oppem.be/fr/activiteiten/detail/406/la-troupe-de-theatre-de-morgenster-joue-een-weekendje-moorden-nl
 
@@ -38,10 +15,32 @@ Bonjour à toutes et à tous ! Voici les activités prévues dans notre commune 
 ▪️ 20h00–23h00 · *La troupe de théatre De Morgenster joue "Een weekendje moorden" (NL)*
    🔗 https://www.wezembeek-oppem.be/fr/activiteiten/detail/406/la-troupe-de-theatre-de-morgenster-joue-een-weekendje-moorden-nl
 
+*Dimanche 29 novembre*
+▪️ 15h00–18h00 · *La troupe de théatre De Morgenster joue "Een weekendje moorden" (NL)*
+   🔗 https://www.wezembeek-oppem.be/fr/activiteiten/detail/406/la-troupe-de-theatre-de-morgenster-joue-een-weekendje-moorden-nl
+
+*Lundi 30 novembre*
+▪️ 19h30 · *Réunion d'installation du Conseil de l'environnement*
+   📍 City Hall - salle de réunion Vosberg
+   🔗 https://www.wezembeek-oppem.be/fr/activiteiten/detail/698/reunion-dinstallation-du-conseil-de-lenvironnement
+
+*Mardi 1er décembre*
+▪️ 14h00–15h30 · *SENtalks: "Votre mémoire vous joue-t-elle parfois des tours?"*
+   📍 Centre Forum
+   🔗 https://www.wezembeek-oppem.be/fr/sentalks-votre-memoire-vous-joue-t-elle-parfois-des-tours
+
+*Jeudi 3 décembre*
+▪️ 10h00–12h00 · *Babycafé*
+   📍 Centre de rencontre Agora
+   🔗 https://www.wezembeek-oppem.be/fr/activiteiten/detail/318/babycafe
+
 *En cours*
 ▪️ *Nouvelle expo City Hall : Nathalie Fouarge* (jusqu'au 30 novembre)
    📍 City Hall - accueil
    🔗 https://www.wezembeek-oppem.be/fr/nouvelle-expo-city-hall-nathalie-fouarge
+▪️ *Nouvelle expo City Hall : Caroline Moxhon* (jusqu'au 31 décembre)
+   📍 City Hall - accueil
+   🔗 https://www.wezembeek-oppem.be/fr/nouvelle-expo-city-hall-caroline-moxhon
 
 🗓️ Tout l'agenda et l'abonnement à votre calendrier :
 https://ntcelis.github.io/agenda-wezembeek/

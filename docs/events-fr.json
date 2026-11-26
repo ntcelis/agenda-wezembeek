@@ -409,30 +409,6 @@
  },
  {
   "lang": "fr",
-  "title": "Babycafé",
-  "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/318/babycafe",
-  "start": "2026-11-26T10:00:00",
-  "end": "2026-11-26T12:00:00",
-  "all_day": false,
-  "location": "Centre de rencontre Agora",
-  "category": "Catégorie non déterminé",
-  "subtitle": "",
-  "uid": "26482fa1c7e5da363f18@agenda-wezembeek-oppem"
- },
- {
-  "lang": "fr",
-  "title": "Babycafé: atelier de photographie",
-  "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/546/babycafe-atelier-de-photographie",
-  "start": "2026-11-26T10:00:00",
-  "end": "2026-11-26T12:00:00",
-  "all_day": false,
-  "location": "",
-  "category": "Festivité",
-  "subtitle": "",
-  "uid": "1760b6c5bab0f1bff070@agenda-wezembeek-oppem"
- },
- {
-  "lang": "fr",
   "title": "La troupe de théatre De Morgenster joue \"Een weekendje moorden\" (NL)",
   "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/406/la-troupe-de-theatre-de-morgenster-joue-een-weekendje-moorden-nl",
   "start": "2026-11-26T20:00:00",
