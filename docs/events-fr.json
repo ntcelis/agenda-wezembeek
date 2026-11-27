@@ -505,6 +505,18 @@
  },
  {
   "lang": "fr",
+  "title": "Wezembeek Thursday Festival - Mega Jam Session",
+  "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/617/wezembeek-thursday-festival-mega-jam-session",
+  "start": "2026-12-03T19:30:00",
+  "end": "2026-12-03T23:59:00",
+  "all_day": false,
+  "location": "Bâtiment Merlijn",
+  "category": "Concert",
+  "subtitle": "",
+  "uid": "620597406e1df2c89f0b@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
   "title": "Café Alzheimer (FR)",
   "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/526/cafe-alzheimer-fr",
   "start": "2026-12-08T14:00:00",
@@ -526,6 +538,18 @@
   "category": "Cours avec sessions ouvertes",
   "subtitle": "",
   "uid": "4724699d7958b7d2cf5f@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
+  "title": "Marché de Noël de quartier",
+  "url": "https://www.wezembeek-oppem.be/fr/marche-de-noel-de-quartier",
+  "start": "2026-12-09T14:00:00",
+  "end": "2026-12-09T17:00:00",
+  "all_day": false,
+  "location": "Centre Forum (grande salle)",
+  "category": "Marché, brocante ou kermesse",
+  "subtitle": "",
+  "uid": "8c78ac76ae1c421d8ba5@agenda-wezembeek-oppem"
  },
  {
   "lang": "fr",
@@ -565,6 +589,18 @@
  },
  {
   "lang": "fr",
+  "title": "Marché de Noël à la maison de repos et de soins OLV",
+  "url": "https://www.wezembeek-oppem.be/fr/marche-de-noel-a-la-residence-de-in-het-woonzorgcentrum-olv",
+  "start": "2026-12-10T14:00:00",
+  "end": "2026-12-10T17:00:00",
+  "all_day": false,
+  "location": "MRS Onze-Lieve-Vrouw",
+  "category": "Marché, brocante ou kermesse",
+  "subtitle": "",
+  "uid": "9236cfd50d1399264205@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
   "title": "Séance d'information : louer dans les règles de l'art – une introduction aux droits et obligations du bailleur",
   "url": "https://www.wezembeek-oppem.be/fr/seance-dinformation-louer-dans-les-regles-de-lart-une-introduction-aux-droits-et-obligations-du-bail",
   "start": "2026-12-10T19:30:00",
@@ -574,6 +610,42 @@
   "category": "Conférence ou congrès",
   "subtitle": "",
   "uid": "cd2b76f099c1af82c400@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
+  "title": "Concert de Noël avec la chorale Bel Canto",
+  "url": "https://www.wezembeek-oppem.be/fr/concert-de-noel-avec-la-chorale-bel-canto",
+  "start": "2026-12-12T16:00:00",
+  "end": "2026-12-12T18:30:00",
+  "all_day": false,
+  "location": "Eglise Saint-Joseph, avenue d'Oppem 149",
+  "category": "Concert",
+  "subtitle": "",
+  "uid": "5e179767ddaf323470eb@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
+  "title": "Exposition d'animaux de basse-cour",
+  "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/700/exposition-danimaux-de-basse-cour",
+  "start": "2026-12-12T16:00:00",
+  "end": "2026-12-12T21:00:00",
+  "all_day": false,
+  "location": "GC De Kam, rue du Ruisseau 172",
+  "category": "Exposition",
+  "subtitle": "",
+  "uid": "1e9c1488f7e28aba7ad3@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
+  "title": "Exposition d'animaux de basse-cour",
+  "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/700/exposition-danimaux-de-basse-cour",
+  "start": "2026-12-13T10:00:00",
+  "end": "2026-12-13T16:00:00",
+  "all_day": false,
+  "location": "GC De Kam, rue du Ruisseau 172",
+  "category": "Exposition",
+  "subtitle": "",
+  "uid": "586e34b69d98fa609805@agenda-wezembeek-oppem"
  },
  {
   "lang": "fr",
@@ -649,6 +721,18 @@
  },
  {
   "lang": "fr",
+  "title": "Concert de Noël par An Enchanted Flute",
+  "url": "https://www.wezembeek-oppem.be/fr/concert-de-noel-par-an-enchanted-flute",
+  "start": "2026-12-17T14:00:00",
+  "end": "2026-12-17T16:00:00",
+  "all_day": false,
+  "location": "MRS Onze-Lieve-Vrouw",
+  "category": "Concert",
+  "subtitle": "",
+  "uid": "0f6e4603a24000203afb@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
   "title": "Conférence : \"Quand l'amour accompagne le deuil\"",
   "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/688/conference-quand-lamour-accompagne-le-deuil",
   "start": "2026-12-17T19:30:00",
@@ -673,6 +757,18 @@
  },
  {
   "lang": "fr",
+  "title": "Babycafé",
+  "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/318/babycafe",
+  "start": "2027-01-07T10:00:00",
+  "end": "2027-01-07T12:00:00",
+  "all_day": false,
+  "location": "Centre de rencontre Agora",
+  "category": "Catégorie non déterminé",
+  "subtitle": "",
+  "uid": "c696f9bbce83dfa19666@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
   "title": "Repair Café",
   "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/677/repair-cafe",
   "start": "2027-01-10T14:00:00",
@@ -682,6 +778,42 @@
   "category": "Catégorie non déterminé",
   "subtitle": "Jeter? Pas le moins du monde! Des réparateurs bénévoles donnent une nouvelle vie à vos objets.",
   "uid": "fdef1ab57d1c80a83cf7@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
+  "title": "Babycafé",
+  "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/318/babycafe",
+  "start": "2027-01-14T10:00:00",
+  "end": "2027-01-14T12:00:00",
+  "all_day": false,
+  "location": "Centre de rencontre Agora",
+  "category": "Catégorie non déterminé",
+  "subtitle": "",
+  "uid": "24d7e61c19fc5b8023b9@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
+  "title": "Babycafé",
+  "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/318/babycafe",
+  "start": "2027-01-21T10:00:00",
+  "end": "2027-01-21T12:00:00",
+  "all_day": false,
+  "location": "Centre de rencontre Agora",
+  "category": "Catégorie non déterminé",
+  "subtitle": "",
+  "uid": "177f1698f955723c45c1@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "fr",
+  "title": "Babycafé",
+  "url": "https://www.wezembeek-oppem.be/fr/activiteiten/detail/318/babycafe",
+  "start": "2027-01-28T10:00:00",
+  "end": "2027-01-28T12:00:00",
+  "all_day": false,
+  "location": "Centre de rencontre Agora",
+  "category": "Catégorie non déterminé",
+  "subtitle": "",
+  "uid": "89c3d712149d50c0b2df@agenda-wezembeek-oppem"
  },
  {
   "lang": "fr",

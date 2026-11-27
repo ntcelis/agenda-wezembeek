@@ -505,6 +505,18 @@
  },
  {
   "lang": "nl",
+  "title": "Wezembeek Thursday Festival - Mega Jam Session",
+  "url": "https://www.wezembeek-oppem.be/wezembeek-thursday-festival-mega-jam-session",
+  "start": "2026-12-03T19:30:00",
+  "end": "2026-12-03T23:59:00",
+  "all_day": false,
+  "location": "Gebouw Merlijn",
+  "category": "Concert",
+  "subtitle": "",
+  "uid": "88f9f87821ccb23e3a4f@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "nl",
   "title": "Café Alzheimer (FR)",
   "url": "https://www.wezembeek-oppem.be/activiteiten/detail/526/cafe-alzheimer-fr",
   "start": "2026-12-08T14:00:00",
@@ -541,6 +553,18 @@
  },
  {
   "lang": "nl",
+  "title": "Wijkkerstmarkt Ban Eik",
+  "url": "https://www.wezembeek-oppem.be/wijkkerstmarktje",
+  "start": "2026-12-09T14:00:00",
+  "end": "2026-12-09T17:00:00",
+  "all_day": false,
+  "location": "Buurtcentrum Forum (grote zaal)",
+  "category": "Markt, braderie of kermis",
+  "subtitle": "",
+  "uid": "00757bceec2bb5357d35@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "nl",
   "title": "Babycafé",
   "url": "https://www.wezembeek-oppem.be/activiteiten/detail/318/babycafe",
   "start": "2026-12-10T10:00:00",
@@ -565,6 +589,18 @@
  },
  {
   "lang": "nl",
+  "title": "Kerstmarkt in het woonzorgcentrum OLV",
+  "url": "https://www.wezembeek-oppem.be/kerstmarkt-in-het-woonzorgcentrum-olv",
+  "start": "2026-12-10T14:00:00",
+  "end": "2026-12-10T17:00:00",
+  "all_day": false,
+  "location": "WZC Onze-Lieve-Vrouw",
+  "category": "Markt, braderie of kermis",
+  "subtitle": "",
+  "uid": "60a817a22b2e5d226bad@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "nl",
   "title": "Infomoment: kwaliteitsvol verhuren – een introductie in de rechten en plichten van de verhuurder",
   "url": "https://www.wezembeek-oppem.be/infomoment-kwaliteitsvol-verhuren-een-introductie-in-de-rechten-en-plichten-van-de-verhuurder",
   "start": "2026-12-10T19:30:00",
@@ -574,6 +610,42 @@
   "category": "Lezing of congres",
   "subtitle": "",
   "uid": "5be722ad86986986f123@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "nl",
+  "title": "Kerstconcert door koor Bel Canto",
+  "url": "https://www.wezembeek-oppem.be/kerstconcert-door-koor-bel-canto",
+  "start": "2026-12-12T16:00:00",
+  "end": "2026-12-12T18:30:00",
+  "all_day": false,
+  "location": "Sint-Jozefkerk, Oppemlaan 149",
+  "category": "Concert",
+  "subtitle": "",
+  "uid": "821985bcbab189c32e3b@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "nl",
+  "title": "Kleinveetentoonstelling",
+  "url": "https://www.wezembeek-oppem.be/activiteiten/detail/700/kleinveetentoonstelling",
+  "start": "2026-12-12T16:00:00",
+  "end": "2026-12-12T21:00:00",
+  "all_day": false,
+  "location": "GC De Kam, Beekstraat 172",
+  "category": "Tentoonstelling",
+  "subtitle": "",
+  "uid": "91758c441d0303c0a193@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "nl",
+  "title": "Kleinveetentoonstelling",
+  "url": "https://www.wezembeek-oppem.be/activiteiten/detail/700/kleinveetentoonstelling",
+  "start": "2026-12-13T10:00:00",
+  "end": "2026-12-13T16:00:00",
+  "all_day": false,
+  "location": "GC De Kam, Beekstraat 172",
+  "category": "Tentoonstelling",
+  "subtitle": "",
+  "uid": "7cfcff24850822fac3cf@agenda-wezembeek-oppem"
  },
  {
   "lang": "nl",
@@ -649,6 +721,18 @@
  },
  {
   "lang": "nl",
+  "title": "Kerstconcert door An Enchanted Flute",
+  "url": "https://www.wezembeek-oppem.be/kerstconcert-door-an-enchanted-flute",
+  "start": "2026-12-17T14:00:00",
+  "end": "2026-12-17T16:00:00",
+  "all_day": false,
+  "location": "WZC Onze-Lieve-Vrouw",
+  "category": "Concert",
+  "subtitle": "",
+  "uid": "37dbf1a50d46e7b0aa11@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "nl",
   "title": "Lezing: \"Liefdevol omgaan met verlies\" (NL)",
   "url": "https://www.wezembeek-oppem.be/activiteiten/detail/688/lezing-liefdevol-omgaan-met-verlies-nl",
   "start": "2026-12-17T19:30:00",
@@ -673,6 +757,18 @@
  },
  {
   "lang": "nl",
+  "title": "Babycafé",
+  "url": "https://www.wezembeek-oppem.be/activiteiten/detail/318/babycafe",
+  "start": "2027-01-07T10:00:00",
+  "end": "2027-01-07T12:00:00",
+  "all_day": false,
+  "location": "Ontmoetingscentrum Agora",
+  "category": "Type onbepaald",
+  "subtitle": "",
+  "uid": "d41feae0088828760f9a@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "nl",
   "title": "Repair Café",
   "url": "https://www.wezembeek-oppem.be/activiteiten/detail/677/repair-cafe",
   "start": "2027-01-10T14:00:00",
@@ -682,6 +778,42 @@
   "category": "Type onbepaald",
   "subtitle": "Weggooien? Zeker niet! Vrijwilligers geven jouw spullen een nieuw leven!",
   "uid": "3404e3fd67c232a48ed3@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "nl",
+  "title": "Babycafé",
+  "url": "https://www.wezembeek-oppem.be/activiteiten/detail/318/babycafe",
+  "start": "2027-01-14T10:00:00",
+  "end": "2027-01-14T12:00:00",
+  "all_day": false,
+  "location": "Ontmoetingscentrum Agora",
+  "category": "Type onbepaald",
+  "subtitle": "",
+  "uid": "14ceb5d8ab8b12d66363@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "nl",
+  "title": "Babycafé",
+  "url": "https://www.wezembeek-oppem.be/activiteiten/detail/318/babycafe",
+  "start": "2027-01-21T10:00:00",
+  "end": "2027-01-21T12:00:00",
+  "all_day": false,
+  "location": "Ontmoetingscentrum Agora",
+  "category": "Type onbepaald",
+  "subtitle": "",
+  "uid": "764b7b1785629cb6db3f@agenda-wezembeek-oppem"
+ },
+ {
+  "lang": "nl",
+  "title": "Babycafé",
+  "url": "https://www.wezembeek-oppem.be/activiteiten/detail/318/babycafe",
+  "start": "2027-01-28T10:00:00",
+  "end": "2027-01-28T12:00:00",
+  "all_day": false,
+  "location": "Ontmoetingscentrum Agora",
+  "category": "Type onbepaald",
+  "subtitle": "",
+  "uid": "f058d368fa3dd3ab0bfa@agenda-wezembeek-oppem"
  },
  {
   "lang": "nl",
